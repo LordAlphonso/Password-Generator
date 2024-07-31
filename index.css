@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+}
+#hero-title{
+    color: #FFFFFF;
+    margin: 10px 10px;
+}
+#make-green{
+    color: #4ADF86;
+}
+#hero-subtitle{
+    color: #D5D4D8;
+    font-size: large;
+    margin: 10px 10px;
+}
+#generate-password{
+    margin: 10px 10px;
+    background-color: #10B981;
+    border-color: #10B981;
+    color: white;
+    border-radius: 5px;
+    padding: 9px 18px;
+}
+.underline{
+    color: #2F3E53;
+    margin: 10px 10px;
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+}
+.output-field{
+    width: 250px;
+    height: 40px;
+    background-color: #273549;
+    border: 1px;
+    color: #55F991;
+    border-radius: 5px;
+    padding: 15px 50px;
+    margin: 0px 10px;
+}
